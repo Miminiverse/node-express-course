@@ -1,0 +1,3 @@
+In this lesson, you created a middleware function called asyncWrapper. Why?
+- Avoid writing try-catch block in every CRUD
+
